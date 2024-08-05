@@ -1,0 +1,28 @@
+.formWrapper {
+    width: 300px;
+    height: 250px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.inputWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.inputs {
+    width: 260px;
+}
+
+.submitBtn {
+    display: block;
+    width: 100px;
+    height: 30px;
+    margin: 0 auto;
+}
+
